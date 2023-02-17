@@ -14,10 +14,16 @@ PAM Depletion Analysis Pipeline. Including 3 main function:
 optional arguments:
 
 -h, --help: show this help message and exit
+
 -c, --control: ‘.fastq’ filepath
+
 -e, --experiment: ‘.fastq’ filepath
+
 -f , --fFlank: 5'-flanking sequence of PAM
+
 -t , --tFlank: 3'-flanking sequence of PAM
+
 -ft , --foldTH: Fold threshold for plotting weblogo, default is 10
+
 -o , --output: output directory path
 
