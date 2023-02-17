@@ -1,8 +1,9 @@
 # PAMDA
+python=3.7
 
-usage: python PAMDA.py [-h] -c -e -f -t -ft -o
+usage: python PAMDA.py [-h] [-c] [-e] [-f] [-t] [-ft] [-o]
 
-PAM Depletion Analysis Pipeline. Including 3 main function:
+PAM Depletion data Analysis pipeline. Including 3 main function:
 
 1. Extract the PAM sequence
         
