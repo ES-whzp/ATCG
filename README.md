@@ -1,6 +1,6 @@
 # PAMDA
 
-usage: PAMDA.py [-h] [-c] [-e] [-f] [-t] [-ft] [-o]
+usage: python PAMDA.py [-h] [-c] [-e] [-f] [-t] [-ft] [-o]
 
 PAM Depletion Analysis Pipeline. Including 3 main function:
 
