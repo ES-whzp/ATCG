@@ -7,7 +7,7 @@ PAM Depletion data Analysis pipeline. Including 3 main function:
         
 2. Filter the PAM sequence
         
-3. plot the heatmap and weblogo
+3. Plot the heatmap and weblogo
         
 ## Usage:
 ```
